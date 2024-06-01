@@ -1,6 +1,6 @@
 from aiogram import Bot, Dispatcher, types, executor
-from keyboards.inline import til
-from keyboards.default import info, main_menu, troll, troll_fut, otziv, products, rang, timur_fut, timur, konsta, chz, konsta_fut, s_fut, shahz_fut, shahz, subyektiv, gouz_fut, gouz, chumoli_fut,chumoli
+from inline import til
+from default import info, main_menu, troll, troll_fut, otziv, products, rang, timur_fut, timur, konsta, chz, konsta_fut, s_fut, shahz_fut, shahz, subyektiv, gouz_fut, gouz, chumoli_fut,chumoli
 
 TOKEN = "7419983048:AAG01vFF8DXm83qZXGobegy6rJVaDaM5B9o"
 
